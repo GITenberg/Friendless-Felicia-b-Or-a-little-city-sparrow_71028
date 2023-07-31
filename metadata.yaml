@@ -1,11 +1,16 @@
 _repo: Friendless-Felicia-b-Or-a-little-city-sparrow_71028
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stooke, Eleanora H.
     gutenberg_agent_id: '55669'
     url: http://www.gutenberg.org/2009/agents/55669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71028#Friendless-Felicia-b-Or-a-little-city-sparrow
 gutenberg_issued: '2023-06-23'
 identifiers:
   gutenberg: '71028'
